@@ -1,0 +1,18 @@
+1.下载CEMU
+                 地址：https://cemu.info/
+                 选项--常规设定MLC路径：Y:\wiiu\cemu_1.17.2\mlc01(mlc01文件夹,存档位置)
+                 游戏路径：Y:\wiiu\wiiugames\gameunpackroute
+                 升级：文件--安装游戏升级挡或DLC--meta文件夹下meta.xml，先升级再升DLC
+	选项-输入设定设定手柄
+                 图像包1：右击-Edit graphic packs编辑图像选项，页签下可下载最新图像插件
+                 图像包2：https://github.com/slashiee/cemu_graphic_packs/releases
+	缓存：https://www.reddit.com/r/CEMUcaches/comments/8pocf4/complete_shader_cache_collection/
+2.下载USBHelper
+                 地址：https://github.com/FailedShack/USBHelperInstaller/releases
+                 title key:进入https://titlekeys.ovh/复制一个上去（如http://vault.titlekeys.ovh/）
+                 设置下载和解压目录
+                 选择之后右击下载游戏记得开始下载
+                 下载完成后右击解包(loadline)(下载目录—>>解包目录)
+3.下载CEMUHooker
+                 地址：https://cemuhook.sshnuke.net/
+                 解压出来放在CEMU根目录	
